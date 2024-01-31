@@ -16,6 +16,7 @@ PLAYER_Y = 0
 PLAYER_X = 0
 ANTS_MIN = 4
 ANTS_MAX = 8
+
 IS_DEBUG = 0
 
 
